@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Technology
-* Java - C - Python - Javascript - HTML/CSS
+* Java - C - Python - Javascript - PHP - HTML/CSS
 * CyberSecurity
 * Agile development
 
